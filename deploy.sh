@@ -1,4 +1,4 @@
-#!bin/bash 
+#!/data/data/com.termux/files/usr/bin/bash
 git add .
-git commit -m New change
+git commit -m 'New commit'
 git push
